@@ -1,0 +1,186 @@
+/* lamis abo shamala */
+@font-face{
+    font-family:Rubik-Medium ;
+    src: url(../fonts/Rubik-Medium.ttf);
+}
+@font-face{
+    font-family:Rubik-Regular ;
+    src: url(../fonts/Rubik-Regular.ttf);
+}
+.continer{
+    padding: 7%;
+    padding-top: 5%;
+}
+.butn{
+    padding-left: 35px;
+    padding-right: 32px;
+    padding-top: 11px;
+    padding-bottom: 12px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: Rubik-Medium;
+    background-color: #FA5959;
+    border-color: #FFFFFF;
+}
+nav{
+    margin-right: 30px;
+}
+a{
+    text-decoration: none; 
+    padding-left: 30px;
+}
+a:hover{
+    color: rgb(167, 23, 59);
+}
+button:hover{
+    background-color: rosybrown;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.left-side{
+    margin-top: 80px;
+    font-family:Rubik-Medium ;
+    font-size: 48px;
+    color: #242A45;
+}
+.main-text{
+    font-family:Rubik-Regular;
+    font-size: 18px;
+    color:#9194A2;
+    padding-top: 8px;
+}
+.input{
+    margin-top: 33px;
+    border-color: #ffffff;
+    font-family: Rubik-Medium;
+    font-size: 14px;
+    padding-left: 24px;
+    padding-right: 32px;
+    padding-top:14px ;
+    padding-bottom: 15px;
+    border-radius: 12px;
+    background-color: #5267DF;
+    color: #FFFFFF;
+}
+.input-right{
+    margin-top: 33px;
+    border-color: #ffffff;
+    font-family: Rubik-Medium;
+    font-size: 14px;
+    padding-left: 24px;
+    padding-right: 32px;
+    padding-top:14px ;
+    padding-bottom: 15px;
+    border-radius: 12px;
+    background-color: #F7F7F7;
+    color: #9194A2;
+}
+.main{
+    display: flex;
+    padding-bottom: 78px;
+}
+.header{
+    font-size: 32px;
+    font-family:Rubik-Medium;
+    margin-left: 125px;
+    margin-right: 167px;
+}
+.organize{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    padding-top: 21px;
+    color: #9194A2;
+}
+.input{
+    padding-left:24px ;
+    padding-top: 14px;
+    padding-right:27px ;
+    padding-bottom: 15px;
+}
+.section{
+    display: flex;
+justify-content: space-between;
+}
+.four-section{
+    font-family: Rubik-Medium;
+    font-size: 32px;
+    color: #242A45;
+    text-align: center;
+    margin-top: 132px;
+}
+.child{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    pading-top: 21px;
+    color: #9194A2;
+    padding-left: 449px;
+    padding-right: 451px;
+
+}
+.chrome{
+    margin-top: 78px;
+    text-align: center;
+    padding-right: 50px;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.Add{
+    font-family:Rubik-Medium ;
+    font-size: 20px;
+    color: #242A45;
+    line-height: 2;
+}
+.minmum{
+    font-family: Rubik-Regular;
+    font-size: 15px;
+    color: #9194A2;
+    line-height: 2;
+    border-bottom: dashed;
+}
+.install{
+    padding-left: 42.5px;
+    padding-right: 41.5px;
+    padding-top: 14px;
+    padding-bottom: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family:Rubik-Medium ;
+    background-color: #5267DF;
+    border-radius: 5px;
+    border-color: #707070;
+}
+.firefox{
+    margin-top: 78px;
+    text-align: center;
+    padding-right: 50px;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.opera{
+    margin-top: 78px;
+    text-align: center;
+    padding-right: 50px;
+    justify-content: center;
+    background-color: #FFFFFF;
+}
+.img{
+    width: 200px;
+}
+.application{
+    display: flex;
+    justify-content: space-between;
+}
+.my-name{
+    color: #FFFFFF;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 27px;
+}
+.oparating{
+    padding: 12px;
+    background-color: #242A45;
+}
